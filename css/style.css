@@ -7,7 +7,7 @@ body
 {
 /*     background:linear-gradient(#56bde6,#bd3eeb) no-repeat; */
 /*     background:linear-gradient(#ffffff,#6058f8) no-repeat; */
-    background: url(./background.jpg) no-repeat center center/cover;
+    background: url(/background.jpg) no-repeat center center/cover;
     height: 100vh;
 }
 
